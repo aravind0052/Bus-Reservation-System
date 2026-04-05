@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "BusDB",
+            "database": "${workspaceFolder:Bus Reservation System}/backend/sql_app.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
